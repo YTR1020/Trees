@@ -22,8 +22,12 @@ whoami /all
 ipconfig /all
 ```
 
+4. 查看arp表
 
-arp -a     #查看arp表
+```
+arp -a     
+```
+
 
 systeminfo    #查看操作系统信息
 
