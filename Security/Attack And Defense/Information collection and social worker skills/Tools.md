@@ -28,12 +28,26 @@ ipconfig /all
 arp -a     
 ```
 
+5. 查看操作系统信息
 
-systeminfo    #查看操作系统信息
+```
+systeminfo
+```
 
-echo %PROCESSOR_ARCHITECTURE%    #查看cpu型号
+6. 查看cpu型号
 
-wmic product get name,version  #查看安装软件和版本信息
+```
+echo %PROCESSOR_ARCHITECTURE%
+```
+
+7. 查看安装软件和版本信息
+
+```
+wmic product get name,version
+```
+
+
+
 
 wmic qfe get Caption,Description,HotFixID,InstalledOn  #查看补丁列表
 
