@@ -46,7 +46,7 @@ echo %PROCESSOR_ARCHITECTURE%
 wmic product get name,version
 ```
 
-
+8. 查看补丁列表
 
 
 wmic qfe get Caption,Description,HotFixID,InstalledOn  #查看补丁列表
