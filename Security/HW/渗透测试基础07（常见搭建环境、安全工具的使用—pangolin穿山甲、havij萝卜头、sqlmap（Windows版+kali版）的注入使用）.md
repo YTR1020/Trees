@@ -36,7 +36,7 @@ linux+nginx+python(django/flask)+mysql【新】
 
 5. 读取与写入文件
 
-   ![image-20210918133638522](https://github.com/YTR1020/Trees/blob/main/Screenshot%20or%20pictures/HW/image-20210918133638522.pngg)
+   ![image-20210918133638522](https://github.com/YTR1020/Trees/blob/main/Screenshot%20or%20pictures/HW/image-20210918133638522.png)
 
 6. 扫描系统信息
 
