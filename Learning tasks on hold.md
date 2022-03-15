@@ -12,4 +12,50 @@
 
 6 runoob学习css
 
+7 runoob学习：javascript函数往上，一个晚上搞定。
+
+8tcp三次握手四次挥手
+
+9 了解tcp udp协议
+
+10 javascript函数以下的runoob搞定
+
+11 在vultr上装一个kali
+
+12 以下关键词的部署：
+
+vmware；
+kvm；
+xen；
+openvz；
+openstack；
+docker；
+virtual pc。
+
+13 runoob的php
+
+14 runoob的mysql
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
