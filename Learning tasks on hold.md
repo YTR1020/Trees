@@ -36,7 +36,9 @@ virtual pc。
 
 14 runoob的mysql
 
-15 
+15 在github上搜集学习“windows 提权漏洞”
+
+
 
 
 
