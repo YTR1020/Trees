@@ -38,6 +38,10 @@ virtual pc。
 
 15 在github上搜集学习“windows 提权漏洞”
 
+16 注册一个telegram帐号
+
+17 
+
 
 
 
