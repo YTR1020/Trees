@@ -1,4 +1,4 @@
-# SQL-labs wp
+# SQL-labs wp（得到报错位-union、无法得到报错位-extractvalue、无法得到报错内容-布尔盲注和时间盲注、post提交、post-修改密码、http头注入、referer、cookie、cookie-base64、注释符过滤、密码重置、and和or、空格过滤、unionselect过滤、unionselect单引号括号过滤、宽字节注入、post宽字节注入、堆叠注入）
 
 
 
