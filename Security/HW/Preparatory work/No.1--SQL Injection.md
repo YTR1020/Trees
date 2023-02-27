@@ -1,7 +1,5 @@
 # No.1--SQL Injection
 
-
-
 ## 数据库类型
 
 Oracle数据库
