@@ -1,0 +1,8 @@
+算术编码结果为：
+Fs1=0.1615720499279920
+Fs2=0.3711790336183600
+s1=00101001010111001100100100
+s2=01011111000001011001011011
+算术译码后：
+abbbabbbabbbabbbabbbabbbabbbabbba
+babbbabbbabbbabbbabbbabbbabbbabba
