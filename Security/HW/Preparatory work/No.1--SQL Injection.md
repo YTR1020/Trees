@@ -62,5 +62,25 @@ e. 建立白名单，使恶意SQL语句无效化
 
 ## SQL注入函数
 
+`Group_concat()` 将select的查询结果全部显示出来，占一个显示位
+
+`select version()` 查询MySQL版本
+
+`select user()` 查询数据库用户名
+
+`select database()` 查询数据库名
+
+`select@@datadir()` 查询数据库的绝对路径
+
+`select@@version_compile_os` 查询操作系统版本
+
+`select current_user()` 查询当前用户
+
+`Order by` 找列的数量
+
+`Union select` 联合查询（联合查询的条件是前一条语句查询不到且字段数与前一条语句的查询字段数一致）
+
+## SQL报错注入函数
+
 
 
