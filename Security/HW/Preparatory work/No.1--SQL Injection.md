@@ -91,8 +91,9 @@ e. 建立白名单，使恶意SQL语句无效化
 `rand()函数` 调用可以在0和1之间产生一个随机数
 
 `group by语句` 根据一个或多个列对结果集进行分组
-  
-  
+ 
+ <br>
+ <br/>
 `updatexml(目标xml文档,xml路径,更新的内容)` 更新xml文档的函数
 
 `xpath_expr` 需要更新的xml路径（Xpath格式）
