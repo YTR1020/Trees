@@ -40,7 +40,7 @@ virtual pc。
 
 16 注册一个telegram帐号
 
-17 
+17 hvv复习技术
 
 
 
