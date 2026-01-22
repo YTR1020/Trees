@@ -1,3 +1,1 @@
-# Block Chain
-
-区块链
+# Block Chain Learning
