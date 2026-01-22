@@ -1,4 +1,4 @@
-# Linux-1
+# Linux 1
 
 ## Linux基础
 
