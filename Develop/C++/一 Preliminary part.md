@@ -1,6 +1,4 @@
-# Preliminary part
-
-Reference books: **C++ Primer Plus**
+# Basic
 
 ## C++简史
 
@@ -53,6 +51,9 @@ C++融合了OOP、泛型编程和传统的过程性方法，这表明C++强调�
 ## 程序创建的技巧
 
 
+## 内存模型和名称空间
+
+内容包括： 单独编译； 存储持续性、作用域和链接性； 定位（placement）new运算符； 名称空间。
 
 
 
