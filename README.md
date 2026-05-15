@@ -4,11 +4,11 @@
 
 ## 1、Block Chain
 
-区块链相关领域学习和模型设计
+区块链相关领域学习
 
 ## 2、Computer Systerms
 
-操作系统相关学习笔记
+操作系统相关学习
 
 ## 3、Develop
 
