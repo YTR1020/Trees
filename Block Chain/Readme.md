@@ -1,3 +1,3 @@
 # Block Chain Learning
 
-About the design model without code.
+About the design model (without code).
