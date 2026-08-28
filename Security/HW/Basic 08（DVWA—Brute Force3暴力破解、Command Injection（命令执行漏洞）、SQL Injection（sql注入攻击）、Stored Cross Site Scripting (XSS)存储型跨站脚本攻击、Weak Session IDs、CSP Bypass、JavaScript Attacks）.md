@@ -1,4 +1,4 @@
-# 渗透测试基础08
+# Basic 08
 
 # 其他web漏洞介绍（DVWA—Brute Force3暴力破解、Command Injection（命令执行漏洞）、SQL Injection（sql注入攻击）、Stored Cross Site Scripting (XSS)存储型跨站脚本攻击、Weak Session IDs、CSP Bypass、JavaScript Attacks）
 
