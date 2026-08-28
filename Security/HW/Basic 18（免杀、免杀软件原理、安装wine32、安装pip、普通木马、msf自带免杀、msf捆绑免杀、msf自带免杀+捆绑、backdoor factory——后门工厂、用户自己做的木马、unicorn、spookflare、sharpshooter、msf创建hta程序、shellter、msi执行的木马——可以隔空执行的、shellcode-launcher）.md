@@ -1,4 +1,4 @@
-# 渗透测试基础18
+# Basic 18
 
 # 免杀技术以及木马处理（免杀、免杀软件原理、安装wine32、安装pip、普通木马、msf自带免杀、msf捆绑免杀、msf自带免杀+捆绑、backdoor factory——后门工厂、用户自己做的木马、unicorn、spookflare、sharpshooter、msf创建hta程序、shellter、msi执行的木马——可以隔空执行的、shellcode-launcher）
 
