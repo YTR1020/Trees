@@ -1,4 +1,4 @@
-# 渗透测试基础07
+# Basic 07
 
 # SQL注入原理攻击方法（常见搭建环境、安全工具的使用—pangolin穿山甲、havij萝卜头、sqlmap（Windows版+kali版）的注入使用）
 
