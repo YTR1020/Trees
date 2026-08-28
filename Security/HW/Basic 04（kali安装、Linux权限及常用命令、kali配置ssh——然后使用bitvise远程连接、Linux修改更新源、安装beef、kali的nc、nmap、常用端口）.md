@@ -1,4 +1,4 @@
-# 渗透测试基础04
+# Basic 04
 
 # 渗透测试系统的了解（kali安装、Linux权限及常用命令、kali配置ssh——然后使用bitvise远程连接、Linux修改更新源、安装beef、kali的nc、nmap、常用端口）
 
