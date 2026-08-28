@@ -1,4 +1,4 @@
-# 渗透测试基础09
+# Basic 09
 
 # MSF框架以及使用（metasploit、armitage、命令行使用msf（Windows的漏洞）、利用漏洞永恒之蓝ms17_010、msf内网渗透生成各类木马、meterpreter操作（UAC提权和绕过提权）、GitHub上的相关工具（安卓相关：后门生成器、捆绑安卓木马、攻击框架））
 
