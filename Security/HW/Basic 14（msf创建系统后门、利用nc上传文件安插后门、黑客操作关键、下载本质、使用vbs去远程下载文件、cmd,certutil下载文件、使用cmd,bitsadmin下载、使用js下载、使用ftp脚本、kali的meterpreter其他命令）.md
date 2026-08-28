@@ -1,4 +1,4 @@
-# 渗透测试基础14
+# Basic 14
 
 # 认识系统后门（msf创建系统后门、利用nc上传文件安插后门、黑客操作关键、下载本质、使用vbs去远程下载文件、cmd,certutil下载文件、使用cmd,bitsadmin下载、使用js下载、使用ftp脚本、kali的meterpreter其他命令）
 
