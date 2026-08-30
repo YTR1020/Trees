@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Network Ports Scanner C", "Network Ports Scanner C.vbproj", "{731417A5-EF94-42A1-829A-03BDD4120C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731417A5-EF94-42A1-829A-03BDD4120C21}.Debug|x86.ActiveCfg = Debug|x86
+		{731417A5-EF94-42A1-829A-03BDD4120C21}.Debug|x86.Build.0 = Debug|x86
+		{731417A5-EF94-42A1-829A-03BDD4120C21}.Release|x86.ActiveCfg = Release|x86
+		{731417A5-EF94-42A1-829A-03BDD4120C21}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D422E2-A57B-4DFF-ADC4-74B45F9C0515}
+	EndGlobalSection
+EndGlobal
